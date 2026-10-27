@@ -1,5 +1,4 @@
-## Hi there 👋
-im Sahil, A machine learning engineer based in India.
+in love w AI
 
 programming is my way to enjoy life 
 
