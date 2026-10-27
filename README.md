@@ -1,7 +1,4 @@
-in love w AI
-
-programming is my way to enjoy life 
-
+i love machines so i am learning
 <!--
 **imshaul/imshaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
